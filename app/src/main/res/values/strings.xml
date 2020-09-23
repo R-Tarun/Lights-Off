@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Lights Off</string>
 
-    <string name="MOVIE_DB_API_KEY">3ff94c80b51ea526c06b9dc9666b48aa</string>
+    <string name="MOVIE_DB_API_KEY">**Enter TMDB API key here**</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
